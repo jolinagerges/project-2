@@ -1,0 +1,18 @@
+table{  padding-top:60px;  margin-left: 100;  width: 1000px; height: 550px; caption-side: bottom;
+ border-collapse:collapse; table-layout:fixed;
+    border-width:1px; 
+  border-color:black;
+border-style:dotted ;
+margin-left: 150px; 
+margin-bottom: 100px;
+background-position:right;
+background-repeat: no-repeat;
+}
+.abc{color: red;}
+caption{margin-top: 10px;}
+a:link {color: white;}
+.bca{background-color: red;}
+th{background-color: rgba(107, 156,212, 0.4) ;}
+th{ border:1px  dotted black ;} 
+td{border: 1px  dotted black ;}
+td{text-align: center ;}
